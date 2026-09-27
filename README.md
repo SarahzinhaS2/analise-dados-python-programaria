@@ -61,7 +61,7 @@ Como ainda estou aprendendo programação e análise de dados, organizei essas a
 
 ## Curso
 
-**Análise de Dados em Python — PrograMaria**
+**Análise de Dados em Python - PrograMaria**
 
 Período: 28/03/2025 a 23/05/2025
 
